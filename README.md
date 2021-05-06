@@ -1,4 +1,4 @@
-# Flappy Bunny
+# Flappy Box
 
 ## Description of the Project ##
 * Flappy Box will be something similar to the popular mobile game Flappy Bird. The game will be a side-scroller where the player controls a bunny, attempting to jump between rows of pipes without coming into contact with them. If the player touches the pipes, it ends the game. It will be developed in WebGL.
