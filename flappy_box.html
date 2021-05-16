@@ -5,12 +5,12 @@
 attribute  vec4 vPosition;
 attribute  vec4 vColor;
 varying vec4 fColor;
-uniform mat4 u_MvpMatrix;
+uniform mat4 u_modelMatrix;
 
 void main()
 {
     fColor = vColor;
-    gl_Position = u_MvpMatrix * vPosition;
+    gl_Position = u_modelMatrix * vPosition;
 }
 </script>
 
