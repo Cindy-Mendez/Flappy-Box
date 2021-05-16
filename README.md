@@ -37,7 +37,7 @@
 * And many other things, the possibilities are endless.
 
 ## Video Demo ##
-* A demo of the program can be found at: https://youtu.be/IGOZ2nNt3jE
+* A demo of the program can be found at: https://youtu.be/IGOZ2nNt3jE.
 
 ## Conclusion ##
-In conclusion, I felt like I’ve learned so many new things with this class and I am extremely grateful for it. It was extremely challenging throughout the semester, and the struggle was real, but definitely worth it as I have expanded my knowledge and my skill set. I am looking forward to my other achievements in computer graphics.
+* In conclusion, I felt like I’ve learned so many new things with this class and I am extremely grateful for it. It was extremely challenging throughout the semester, and the struggle was real, but definitely worth it as I have expanded my knowledge and my skill set. I am looking forward to my other achievements in computer graphics.
